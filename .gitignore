@@ -1,0 +1,11 @@
+node_modules/
+.env
+uploads/sliders/images/*
+uploads/notices/pdfs/*
+uploads/notices/images/*
+uploads/gallery/images/*
+uploads/documents/pdfs/*
+uploads/documents/images/*
+uploads/events/pdfs/*
+uploads/events/images/*
+!uploads/**/.gitkeep
